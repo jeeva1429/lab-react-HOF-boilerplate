@@ -1,0 +1,17 @@
+
+li {
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    
+}
+li div {
+    width: 190px;
+    text-align: left;
+}
+
+
+.list-elements-2 {
+    margin-top: 20px;
+    color:blue;
+}
